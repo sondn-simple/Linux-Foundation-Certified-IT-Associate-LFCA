@@ -1,0 +1,45 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║       INTRODUCTION TO SUPPORTING APPLICATIONS AND DEVELOPERS                 ║
+║               (Giới thiệu Supporting Applications and Developers)            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+TỔNG QUAN PHẦN HỌC
+────────────────────────────────────────────────────────────────
+
+  Giảng viên : Matt
+  Chủ đề     : Supporting Applications and Developers
+  Tỷ lệ thi  : 8% (phần ngắn nhất)
+
+
+NỘI DUNG CHÍNH
+────────────────────────────────────────────────────────────────
+
+  • Understanding Software Project Management
+      • Methodologies: Waterfall vs Agile
+      • Responsibilities: People & Project management
+
+  • Understanding Software Application Architecture
+      • Layered, Client-Server, Microservices, Event-Driven, Peer-to-Peer
+
+  • Setting Requirements and Performing Functional Analysis
+      • Functional vs Non-functional requirements
+      • Best practices
+
+  • Understanding Open-Source Software Licensing and Usage
+      • Characteristics of open-source
+      • Restrictive (GPL) vs Permissive (BSD)
+      • Benefits: Cost, Transparency, Community
+
+
+KẾT LUẬN
+────────────────────────────────────────────────────────────────
+
+  Phần Supporting Applications and Developers tập trung vào project management, 
+  architecture, requirements và open-source licensing – chiếm 8% kỳ thi.
+
+
+────────────────────────────────────────────────────────────────
+Cảm ơn bạn đã theo dõi! 
+Tiếp theo chúng ta sẽ học Understanding Software Project Management.
+────────────────────────────────────────────────────────────────

@@ -1,0 +1,58 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║             UNDERSTANDING SOFTWARE PROJECT MANAGEMENT                        ║
+║               (Hiểu về Software Project Management)                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+TỔNG QUAN BÀI HỌC
+────────────────────────────────────────────────────────────────
+
+  Giảng viên : Matt
+  Chủ đề     : Software Project Management
+  Mục tiêu   : Methodologies và responsibilities
+
+
+NỘI DUNG CHÍNH
+────────────────────────────────────────────────────────────────
+
+  • Traditional (Waterfall) Method
+      • Linear sequence: Requirements → Design → Implementation → Testing → Deployment → Maintenance
+      • Each phase depends on previous
+      • Dễ gây frustration
+
+  • Agile Method
+      • Iterative approach
+      • Continuous release, frequent revisions
+      • Customer feedback
+      • Frameworks: Scrum (sprints), Kanban (board)
+
+  • Managing People
+      • Assume ownership
+      • Communicate with stakeholders
+      • Allocate resources, delegate
+      • Foster communication, resolve conflict
+
+  • Managing Project
+      • Project planning (goal, scope)
+      • Effort estimation (cost, time)
+      • Risk assessment
+      • Progress monitoring, task & time management
+      • Business communication, release & maintenance
+
+  • Key Takeaways
+      • Waterfall vs Agile
+      • People management + Project management
+
+
+KẾT LUẬN
+────────────────────────────────────────────────────────────────
+
+  Project Management là kỹ năng quan trọng để dẫn dắt team phát triển software. 
+
+  Agile đang là phương pháp phổ biến nhất hiện nay.
+
+
+────────────────────────────────────────────────────────────────
+Cảm ơn bạn đã theo dõi! 
+Tiếp theo chúng ta sẽ học Understanding Software Application Architecture.
+────────────────────────────────────────────────────────────────

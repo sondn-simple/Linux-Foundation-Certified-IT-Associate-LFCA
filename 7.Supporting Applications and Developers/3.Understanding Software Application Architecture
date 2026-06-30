@@ -1,0 +1,47 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║            UNDERSTANDING SOFTWARE APPLICATION ARCHITECTURE                   ║
+║               (Hiểu về Software Application Architecture)                    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+TỔNG QUAN BÀI HỌC
+────────────────────────────────────────────────────────────────
+
+  Giảng viên : Matt
+  Chủ đề     : Software Application Architecture
+  Mục tiêu   : Khái niệm và các loại architecture phổ biến
+
+
+NỘI DUNG CHÍNH
+────────────────────────────────────────────────────────────────
+
+  • Application Architecture là gì?
+      • Roadmap hoặc blueprint
+      • Structured solution cho requirements
+      • Patterns, techniques, best practices
+      • Define components và cách chúng giao tiếp
+
+  • Các Loại Architecture Phổ Biến
+      • Layered: Presentation, Application, Business, Data Access
+      • Client-Server: Request-Response model
+      • Microservices: Modular, independent services
+      • Event-Driven (Non-blocking): Producers, Consumers, Channels
+      • Peer-to-Peer: No central server, seeders & leechers
+
+  • Key Takeaways
+      • Architecture định nghĩa cấu trúc và cách components tương tác
+      • Mỗi loại có ưu nhược điểm riêng
+
+
+KẾT LUẬN
+────────────────────────────────────────────────────────────────
+
+  Software Application Architecture là nền tảng thiết kế hệ thống. 
+
+  Hiểu rõ các mô hình giúp chọn giải pháp phù hợp cho dự án.
+
+
+────────────────────────────────────────────────────────────────
+Cảm ơn bạn đã theo dõi! 
+Tiếp theo chúng ta sẽ học Setting Requirements and Performing Functional Analysis.
+────────────────────────────────────────────────────────────────

@@ -1,0 +1,52 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   SETTING REQUIREMENTS AND PERFORMING FUNCTIONAL ANALYSIS                    ║
+║               (Thiết lập Yêu cầu và Thực hiện Functional Analysis)           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+TỔNG QUAN BÀI HỌC
+────────────────────────────────────────────────────────────────
+
+  Giảng viên : Matt
+  Chủ đề     : Setting Requirements và Functional Analysis
+  Mục tiêu   : Functional requirements và best practices
+
+
+NỘI DUNG CHÍNH
+────────────────────────────────────────────────────────────────
+
+  • Functional Requirements đến từ đâu?
+      • Business requirements (yêu cầu cấp cao từ lãnh đạo)
+      • User/Stakeholder requirements (phản hồi từ khách hàng, người dùng)
+      • Product requirements (functional + non-functional)
+
+  • Functional Requirements là gì?
+      • Xác định những gì sản phẩm phải làm (features, functions)
+      • Non-functional: Mô tả thuộc tính chung (hiệu suất, cách hệ thống hoạt động)
+
+  • Ví dụ Functional Requirements
+      • Authentication, Authorization
+      • User Interface, Data Input/Output, Validation
+      • Product Operations & Workflows
+
+  • Best Practices khi viết Functional Requirements
+      • Specific: Rõ ràng, tránh mơ hồ
+      • Concise: Ngắn gọn
+      • Consistent terminology (shall, must)
+      • Granular: Một yêu cầu một item
+      • Testable: Có thể kiểm tra được
+      • Unique identifier để theo dõi
+      • Include rationale (lý do)
+
+
+KẾT LUẬN
+────────────────────────────────────────────────────────────────
+
+  Functional requirements định nghĩa chức năng sản phẩm, bắt nguồn từ business 
+  và user needs. Best practices đảm bảo requirements rõ ràng, testable và dễ quản lý.
+
+
+────────────────────────────────────────────────────────────────
+Cảm ơn bạn đã theo dõi! 
+Tiếp theo chúng ta sẽ học Understanding Open-Source Software Licensing and Usage.
+────────────────────────────────────────────────────────────────

@@ -1,0 +1,53 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║     UNDERSTANDING OPEN-SOURCE SOFTWARE LICENSING AND USAGE                   ║
+║               (Hiểu về Open-Source Software Licensing và Usage)              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+TỔNG QUAN BÀI HỌC
+────────────────────────────────────────────────────────────────
+
+  Giảng viên : Matt
+  Chủ đề     : Open-Source Software Licensing
+  Mục tiêu   : Khái niệm, licenses và benefits
+
+
+NỘI DUNG CHÍNH
+────────────────────────────────────────────────────────────────
+
+  • Open-Source Software là gì?
+      • Phân phối kèm source code
+      • Có thể use, modify, distribute
+      • Khác với proprietary/closed-source (hạn chế redistribution)
+
+  • Idealism vs Pragmatism
+      • Idealism: Tất cả software nên miễn phí
+      • Pragmatism: Lợi ích kỹ thuật (faster development, collaboration)3
+
+  • Free as in Beer vs Free as in Speech
+      • Beer: Miễn phí tiền
+      • Speech: Tự do sử dụng, modify (legal rights)
+
+  • Open-Source Licenses
+      • Restrictive (Copyleft): GPL, Affero GPL (phải giữ open nếu modify)
+      • Permissive: BSD, Apache, MIT (cho phép proprietary)
+
+  • Benefits of Open Source
+      • Flexibility, avoid vendor lock-in
+      • Cost savings
+      • Transparency & Security (trust but verify)
+      • Community access & collaboration
+
+
+KẾT LUẬN
+────────────────────────────────────────────────────────────────
+
+  Open-source mang lại tự do, transparency và cost efficiency. 
+
+  Hiểu licensing giúp chọn đúng license khi phát triển hoặc sử dụng phần mềm.
+
+
+────────────────────────────────────────────────────────────────
+Cảm ơn bạn đã theo dõi! 
+Tiếp theo chúng ta sẽ học Conclusion to Supporting Applications and Developers.
+────────────────────────────────────────────────────────────────
